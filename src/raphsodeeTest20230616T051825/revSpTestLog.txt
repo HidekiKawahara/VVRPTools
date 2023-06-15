@@ -1,0 +1,9 @@
+Start, 2023/06/16 05:18:41
+IOdevice selection, PreSonus Studio 26, 2023/06/16 05:18:46
+Buffer size selection, 2048, 2023/06/16 05:18:48
+Calibration button pushed, 2023/06/16 05:18:53
+Calibration SPL selection selection, 70, 2023/06/16 05:19:23
+Calibration checkbox checked, 70, 2023/06/16 05:19:24
+Calibration level is: , 144.7509 dB , 2023/06/16 05:19:41
+START button pushed,  *** , 2023/06/16 05:19:50
+STOP button pushed,  *** , 2023/06/16 05:20:08
