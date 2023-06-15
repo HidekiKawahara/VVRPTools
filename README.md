@@ -3,6 +3,10 @@ Supporting tools for voice users presented SMAC2023.
 
 This repository is under construction. The tools are tentatively connected but may have a lot of issues. Thank you for your feedback and patience.
 
+## Requirement
+
+MATLAB R2022b or later with Audio Toolbox installed. I am using MacbookPro M1 Max to develop. I use Windows 11 desktop for testing.
+
 ## How to start
 
 Please run the following tool. After preparation and acoustic condition measurement, you can launch specialist tools.
