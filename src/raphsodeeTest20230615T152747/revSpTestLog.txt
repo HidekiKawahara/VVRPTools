@@ -1,0 +1,7 @@
+Start, 2023/06/15 15:27:55
+IOdevice selection, PreSonus Studio 26, 2023/06/15 15:28:02
+Calibration button pushed, 2023/06/15 15:28:06
+Calibration checkbox checked, 80, 2023/06/15 15:29:05
+Calibration level is: , 107.7036 dB , 2023/06/15 15:29:20
+START button pushed,  *** , 2023/06/15 15:29:30
+STOP button pushed,  *** , 2023/06/15 15:29:48
