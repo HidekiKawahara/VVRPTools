@@ -3,6 +3,12 @@ Supporting tools for voice users presented SMAC2023.
 
 This repository is under construction. The tools are tentatively connected but may have a lot of issues. Thank you for your feedback and patience.
 
+## How to start
+
+Please run the following tool. After preparation and acoustic condition measurement, you can launch specialist tools.
+
+raphsodeeAcousticTool.mlapp
+
 ## Demo movies
 
 
